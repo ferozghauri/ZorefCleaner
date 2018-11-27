@@ -1,0 +1,11 @@
+c:\users\muhammad.feroz\source\repos\ZorefCleaner\ZorefCleaner\bin\Debug\ZorefCleaner.exe.config
+c:\users\muhammad.feroz\source\repos\ZorefCleaner\ZorefCleaner\bin\Debug\ZorefCleaner.exe
+c:\users\muhammad.feroz\source\repos\ZorefCleaner\ZorefCleaner\bin\Debug\ZorefCleaner.pdb
+c:\users\muhammad.feroz\source\repos\ZorefCleaner\ZorefCleaner\obj\Debug\ZorefCleaner.csprojResolveAssemblyReference.cache
+c:\users\muhammad.feroz\source\repos\ZorefCleaner\ZorefCleaner\obj\Debug\ZorefCleaner.Form1.resources
+c:\users\muhammad.feroz\source\repos\ZorefCleaner\ZorefCleaner\obj\Debug\ZorefCleaner.Properties.Resources.resources
+c:\users\muhammad.feroz\source\repos\ZorefCleaner\ZorefCleaner\obj\Debug\ZorefCleaner.csproj.GenerateResource.Cache
+c:\users\muhammad.feroz\source\repos\ZorefCleaner\ZorefCleaner\obj\Debug\ZorefCleaner.csproj.CoreCompileInputs.cache
+c:\users\muhammad.feroz\source\repos\ZorefCleaner\ZorefCleaner\obj\Debug\ZorefCleaner.exe
+c:\users\muhammad.feroz\source\repos\ZorefCleaner\ZorefCleaner\obj\Debug\ZorefCleaner.pdb
+C:\Users\muhammad.feroz\source\repos\ZorefCleaner\ZorefCleaner\obj\Debug\ZorefCleaner.DuplicatePrompt.resources
